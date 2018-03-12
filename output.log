@@ -1,0 +1,18 @@
+[2018-03-12][13:51:25][failure_learn][DEBUG] Debug message
+[2018-03-12][13:51:25][failure_learn][INFO] Info message
+[2018-03-12][13:51:25][failure_learn][WARN] Warning message
+[2018-03-12][13:51:25][failure_learn][ERROR] Error message
+[2018-03-12][13:54:56][failure_learn][DEBUG] Logging active.
+[2018-03-12][13:54:56][failure_learn][WARN] The ingredients seem to have been misplaced. This might cause problems
+[2018-03-12][13:54:56][failure_learn][WARN] The chef is a lava monster and has no concept of heat. Keep an eye on him when he's baking.
+[2018-03-12][13:54:56][failure_learn][ERROR] Could not make pizza: The pizza ingredients have been misplaced.
+[2018-03-12][13:55:00][failure_learn][DEBUG] Logging active.
+[2018-03-12][13:55:00][failure_learn][WARN] The ingredients seem to have been misplaced. This might cause problems
+[2018-03-12][13:55:00][failure_learn][WARN] The chef is a lava monster and has no concept of heat. Keep an eye on him when he's baking.
+[2018-03-12][13:55:00][failure_learn][ERROR] Could not make pizza: The pizza ingredients have been misplaced.
+[2018-03-12][14:05:14][failure_learn][[35mDEBUG[0m] Logging active.
+[2018-03-12][14:05:14][failure_learn][[33mWARN[0m] The ingredients seem to have been misplaced. This might cause problems
+[2018-03-12][14:05:14][failure_learn][[33mWARN[0m] The chef is a lava monster and has no concept of heat. Keep an eye on him when he's baking.
+[2018-03-12][14:05:14][failure_learn][[31mERROR[0m] Could not make pizza: The pizza ingredients have been misplaced.
+[2018-03-12][14:05:31][failure_learn][[35mDEBUG[0m] Logging active.
+[2018-03-12][14:05:31][failure_learn][[34mINFO[0m] Enjoy the pizza

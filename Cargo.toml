@@ -1,0 +1,11 @@
+[package]
+name = "failure-learn"
+version = "0.1.0"
+authors = ["Zelda Hessler <zhess@allstate.com>"]
+
+[dependencies]
+failure = "0.1.1"
+failure_derive = "0.1.1"
+fern = { version = "0.5", features = ["colored"] }
+chrono = "0.4"
+log = "0.4"
